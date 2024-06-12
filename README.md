@@ -16,4 +16,3 @@ Descubra mais sobre o brilhante Leonardo da Vinci através de uma página modern
 
 ![image](https://github.com/phsoaresb/LeonardoDaVinci-Portifolio/assets/134897384/0fe081a2-435f-47e1-acdf-a04c285bffe1)
 ![image](https://github.com/phsoaresb/LeonardoDaVinci-Portifolio/assets/134897384/59ef4368-95ed-48b0-800b-4172c73b3138)
-![image](https://github.com/phsoaresb/LeonardoDaVinci-Portifolio/assets/134897384/a2c1aafc-d8c4-4f4c-be98-2066b03dfe8c)
