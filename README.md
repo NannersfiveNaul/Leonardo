@@ -1,9 +1,15 @@
 # Leonardo
-Página de portifólio de Leonardo da Vinci, se estivesse vivo nos dias de hoje.
-A página possui alta responsividade, adequando-se de acordo com o tamanho da tela e do dispositivo.
-A navbar é interativa. Onde você clicar, você será direcionado ao elemento.
-Possui um formulário de contato abaixo. Altamente personalizável. Confira!
-A página possui: Navbar, cabeçalho, seção de apresentação, seção de portifólio, seção de contato, footer.
+Página de Portfólio de Leonardo da Vinci - Uma Experiência Interativa e Responsiva
+Explore o portfólio digital de Leonardo da Vinci como se ele estivesse vivo nos dias de hoje! Esta página é projetada para ser altamente responsiva, adaptando-se perfeitamente a qualquer tamanho de tela e dispositivo. Navegue facilmente com nossa navbar interativa, que permite acesso rápido a qualquer seção da página com apenas um clique.
+
+O que você encontrará na página:
+Navbar Interativa: Navegue rapidamente entre as seções.
+Cabeçalho: Uma introdução impressionante ao gênio renascentista.
+Seção de Apresentação: Conheça mais sobre Leonardo e suas conquistas.
+Seção de Portfólio: Explore suas obras e invenções em detalhe.
+Seção de Contato: Entre em contato com um formulário simples e eficaz.
+Footer: Informações adicionais e links úteis.
+Descubra mais sobre o brilhante Leonardo da Vinci através de uma página moderna, totalmente personalizável e fácil de usar. Confira agora!
 
 
 
